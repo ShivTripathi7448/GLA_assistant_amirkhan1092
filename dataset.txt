@@ -1,4 +1,4 @@
-8. Course|s offered?
+8. Courses offered?
   BA LLB, BBA LLB, BA [Hons.], BBA, BBA [Hons.], B.Com [Hons.], BCA, B.Ed, B.Pharm, B.Sc [Hons.], B.Tech, MA, MBA, MCA, M.Pharm, M.Sc, M.Tech, Diploma, Post Graduate Diploma, Advanced Diploma, Certificate, Ph.D.
 
 
@@ -25,7 +25,7 @@
 13. Total number of students
    More than 12000 students.
 
-14. Total number of faculty.
+14. Nuumber of faculty in GLA.
    There are over 600 faculty in GLA.
 
 
